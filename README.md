@@ -36,5 +36,5 @@ The primary objective of this project is to apply advanced data science techniqu
 
 This analysis not only contributes to the academic discourse surrounding financial analytics but also provides practical insights that can enhance investment strategies. By identifying which financial ratios are most indicative of stock returns, investors can tailor their portfolio strategies with a higher degree of precision and confidence. Furthermore, the findings could inform corporate financial policies by highlighting the financial aspects most closely watched by investors.
 
-![Mean Absolute Error of Models](visualizations/Model_Results.png)
+![Mean Absolute Error of Models](visualizations/Models_Results.png)
 
